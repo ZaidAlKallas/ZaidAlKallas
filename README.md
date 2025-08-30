@@ -22,9 +22,9 @@ Stay tuned for real-world applications showcasing Blazor, MVC, and fullstack sol
 ---
 
 ## 📊 GitHub Stats
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=tokyonight)
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidAlKallas&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUser&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidAlKallas&layout=compact&theme=tokyonight)
 
 ---
 
