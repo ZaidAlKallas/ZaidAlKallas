@@ -30,4 +30,4 @@ Stay tuned for real-world applications showcasing Blazor, MVC, and fullstack sol
 
 ## 📫 Let's Connect
 - 📧 [Email](mailto:eng.zaid.kallas@gmail.com)  
-- 🔗 LinkedIn (coming soon)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zaid-kallas-49477a384/)
