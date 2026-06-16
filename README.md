@@ -63,6 +63,7 @@ Contributed to backend development, Blazor dashboards, and database/workflow pla
 Full-stack restaurant management platform with role-based workflows, background job processing, and layered business logic architecture.
 
 **Tech:** ASP.NET Core MVC, EF Core, SQL Server, Hangfire, Identity, Bootstrap
+**Live Demo:** [Here](http://click-and-eat.runasp.net/)
 
 ### 🧵 DTX – Industrial Thread Tension Measurement System
 
