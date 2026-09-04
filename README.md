@@ -79,4 +79,4 @@ Industrial embedded systems project developed during training, integrating hardw
 ## 📫 Let's Connect
 
 * 📧 Email: [eng.zaid.kallas@gmail.com](mailto:eng.zaid.kallas@gmail.com)
-* 🔗 LinkedIn: [Zaid AlKallas](https://www.linkedin.com/in/zaid-kallas-49477a384/)
+* 🔗 LinkedIn: [Zaid AlKallas](https://www.linkedin.com/in/zaid-alkallas/)
