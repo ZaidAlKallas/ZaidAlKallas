@@ -1,7 +1,8 @@
 # Hi there, I'm Zaid Alkallas 👋
 
-💻 Software Developer focused on ASP.NET Core, Blazor, and .NET MAUI applications.
-I enjoy designing maintainable systems, applying clean architecture principles, and building real-world business applications with practical workflows.
+💻 **.NET Backend Developer** focused on building secure, scalable Web APIs and backend systems with C# and ASP.NET Core.
+
+I enjoy designing maintainable systems, working with databases and APIs, and building real-world applications around practical business workflows.
 
 ---
 
@@ -9,12 +10,42 @@ I enjoy designing maintainable systems, applying clean architecture principles, 
 
 ### Backend
 
-* ASP.NET Core MVC
+* C#
+* .NET
+* ASP.NET Core
 * ASP.NET Core Web API
+* ASP.NET Core MVC
+* Minimal APIs
 * Entity Framework Core
 * REST APIs
+* OpenAPI / Swagger
 * LINQ
-* ADO.NET
+
+### Architecture & Engineering
+
+* Vertical Slice Architecture
+* Clean Architecture
+* Dependency Injection
+* Authentication & Authorization
+* JWT
+* Caching
+* Background Jobs
+
+### Databases
+
+* PostgreSQL
+* SQL Server
+* Oracle (PL/SQL)
+* SQLite
+
+### Testing & DevOps
+
+* xUnit
+* Integration Testing
+* Testcontainers
+* Docker
+* GitHub Actions
+* CI/CD
 
 ### Frontend & UI
 
@@ -23,38 +54,32 @@ I enjoy designing maintainable systems, applying clean architecture principles, 
 * Bootstrap
 * Radzen
 
-### Mobile Development
-
-* .NET MAUI
-
-### Databases
-
-* SQL Server
-* Oracle (PL/SQL)
-
-### Tools & Platforms
+### Tools
 
 * Git & GitHub
-* Docker
+* Redis
+* Serilog
 * Hangfire
 
 ---
 
 ## 📌 Featured Projects
 
-### 💰 Budget Friend – Personal Finance Tracker
-Cross-platform finance tracking application built with .NET MAUI using Clean Architecture and MVVM.
+### 💰 BudgetFriend API – Personal Finance Management System
 
-Features include expense and income tracking, encrypted local backups, localization with RTL/LTR support, category management, and advanced transaction filtering.
+Open-source backend for a personal finance platform built with ASP.NET Core 10 Minimal APIs and Vertical Slice Architecture.
 
-**Tech:** .NET MAUI, SQLite, CommunityToolkit.Mvvm, Encrypted Backup System
+The API handles multi-currency accounts, transactions, categories, transfers, authentication, financial summaries, and other core business workflows.
 
-🔗 Project Page: [GitHub Repository](https://github.com/ZaidAlKallas/BudgetFriend)
+**Tech:** ASP.NET Core 10, Minimal APIs, EF Core, PostgreSQL, Redis, JWT, Docker, Serilog, xUnit, Testcontainers, GitHub Actions
+
+🔗 [GitHub Repository](https://github.com/ZaidAlKallas/BudgetFriend.API)
 
 ### 🚗 AutoNest – Car Rental & Sales Platform
 
-Graduation project developed within a 4-member team featuring management dashboards, API-based architecture, and workflow-driven system design.
-Contributed to backend development, Blazor dashboards, and database/workflow planning.
+Graduation project developed within a 4-member team featuring API-based architecture, management dashboards, and workflow-driven system design.
+
+Contributed to backend development, Blazor dashboards, database design, ERD planning, and workflow definition.
 
 **Tech:** ASP.NET Core Web API, Blazor, React, Radzen, SQL Server
 
@@ -62,17 +87,19 @@ Contributed to backend development, Blazor dashboards, and database/workflow pla
 
 Full-stack restaurant management platform with role-based workflows, background job processing, and layered business logic architecture.
 
-**Tech:** ASP.NET Core MVC, EF Core, SQL Server, Hangfire, Identity, Bootstrap
+**Tech:** ASP.NET Core MVC, EF Core, SQL Server, Hangfire, ASP.NET Core Identity, Bootstrap
 
-**Live Demo:** [Here](http://click-and-eat.runasp.net/)
+🔗 [Live Demo](http://click-and-eat.runasp.net/)
 
-### 🧵 DTX – Industrial Thread Tension Measurement System
+### 💰 BudgetFriend – Personal Finance Tracker
 
-Industrial embedded systems project developed during training, integrating hardware sensors with software logic for real-time thread tension monitoring.
+Cross-platform personal finance application built with .NET MAUI using Clean Architecture and MVVM.
 
-🔗 Project Page: [GitHub Repository](http://github.com/levonshirinian/Dr_Machine/)
+Features include expense and income tracking, encrypted local backups, localization with RTL/LTR support, category management, and transaction filtering.
 
-**Tech:** Arduino, Embedded Systems, Sensors
+**Tech:** .NET MAUI, SQLite, CommunityToolkit.Mvvm, MVVM
+
+🔗 [GitHub Repository](https://github.com/ZaidAlKallas/BudgetFriend)
 
 ---
 
@@ -80,3 +107,4 @@ Industrial embedded systems project developed during training, integrating hardw
 
 * 📧 Email: [eng.zaid.kallas@gmail.com](mailto:eng.zaid.kallas@gmail.com)
 * 🔗 LinkedIn: [Zaid AlKallas](https://www.linkedin.com/in/zaid-alkallas/)
+* 🌐 Portfolio: [zaidalkallas.me](https://zaidalkallas.me/)
